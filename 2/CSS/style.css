@@ -1,4 +1,17 @@
-ul.list li{
-    width:auto;
-    float:left;
+.color_red{
+    color: red;
+}
+
+.color_black{
+    color: black;
+}
+
+.text{
+    margin:2px;
+    font-size: 45px;
+    background-color: rgb(212, 207, 203);
+}
+
+.display_inline{
+    display:inline-block; 
 }
